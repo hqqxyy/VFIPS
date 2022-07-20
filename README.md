@@ -11,6 +11,8 @@ A Perceptual Quality Metric for Video Frame Interpolation, <br>
 in European Conference on Computer Vision (ECCV) 2022.
 
 
+As video frame interpolation results often exhibit unique artifacts, existing quality metrics sometimes are not consistent with human perception when measuring the interpolation results. Some recent deep learning-based perceptual quality metrics are shown more consistent with human judgments, but their performance on videos is compromised since they do not consider temporal information. In this project, we present a dedicated perceptual quality metric for measuring video frame interpolation results.
+
 <img src="figures/arch.png"> 
 
 ### Requirements
