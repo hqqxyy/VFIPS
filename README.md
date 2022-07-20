@@ -50,6 +50,7 @@ python train.py --model=multiscale_v33 --expdir=./exp/eccv_ms_multiscale_v33/
 
 
 ## Citation
+If you find this code is helpful, please consider to cite our paper.
 ```
 @inproceedings{hou2022vfips,
   title={A Perceptual Quality Metric for Video Frame Interpolation},
