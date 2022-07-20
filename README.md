@@ -7,6 +7,7 @@ A Perceptual Quality Metric for Video Frame Interpolation, <br>
  Abhijay Ghildyal <sup>1</sup>,
  [Feng Liu](http://web.cecs.pdx.edu/~fliu/) <sup>1</sup>, <br>
  <sup>1</sup>Portland State University 
+
 in European Conference on Computer Vision (ECCV) 2022.
 
 
