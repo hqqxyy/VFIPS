@@ -43,7 +43,7 @@ python test_bvivfi_fast.py --model=multiscale_v33 --expdir=./exp/eccv_ms_multisc
         datadir = 'VFIPS_DATASET_PATH'
 ```
 
-2. Run the testing codes
+2. Run the training codes
 ```bash
 python train.py --model=multiscale_v33 --expdir=./exp/eccv_ms_multiscale_v33/
 ```
