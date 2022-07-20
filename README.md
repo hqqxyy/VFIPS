@@ -60,5 +60,8 @@ If you find this code is helpful, please consider to cite our paper.
 }
 ```
 
+If you find any bugs of the code, feel free to send me an email: qiqi2 AT pdx DOT edu. You can find more information in my 
+[homepage](https://hqqxyy.github.io/).
+
 ## Acknowledgments
 This work was made possible in part thanks to Research Computing at Portland State University and its HPC resources acquired through NSF Grants 2019216 and 1624776. Source frames are used under a Creative Commons license from Youtube users Ignacio, Scott, Animiles, H-Edits, 3 Playing Brothers, TristanBotteram, popconet, and billisa.
