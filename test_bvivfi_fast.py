@@ -44,9 +44,9 @@ def test_plcc(predpath):
     print('*' * 50)
     print(predpath)
 
-    print('local plcc', np.mean(local_pearson))
-    print('local srcc', np.mean(local_spearmanr))
-    print('local krcc', np.mean(local_kendalltau))
+    print('plcc', np.mean(local_pearson))
+    print('srcc', np.mean(local_spearmanr))
+    print('krcc', np.mean(local_kendalltau))
 
 
 
