@@ -17,8 +17,6 @@ def test_plcc(predpath):
     gt_dmos = load_pkl(gtpath)
     pred_dmos = load_pkl(predpath)
 
-    global_gt = []
-    global_pred = []
     local_pearson = []
     local_spearmanr = []
     local_kendalltau = []
@@ -26,17 +24,12 @@ def test_plcc(predpath):
     for videoname in videolist:
         gt = []
         pred = []
-
         for method in ["Repeat","Average","DVF","QVI","STMFNet"]:
             gt.append(gt_dmos[videoname + method])
             tmp = np.array(pred_dmos[videoname + method])
             tmp = tmp[tmp != np.inf]
             tmp = np.mean(tmp)
             pred.append(tmp)
-        
-        global_gt += gt
-        global_pred += pred
-        
 
         pearson_corr, pearson_p = pearsonr(gt, pred)
         local_pearson.append(pearson_corr)
