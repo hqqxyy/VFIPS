@@ -1,6 +1,6 @@
 # A Perceptual Quality Metric for Video Frame Interpolation 
 
-### [Paper](https://web.cecs.pdx.edu/~qiqi2/files/papers/vfips/ECCV2022_Qiqi_VideoQualityMetric_CameraReady.pdf) | Data | [Poster](https://web.cecs.pdx.edu/~qiqi2/files/papers/vfips/poster.pdf) 
+### [Paper](https://web.cecs.pdx.edu/~qiqi2/files/papers/vfips/ECCV2022_Qiqi_VideoQualityMetric_CameraReady.pdf) | Data | [Video](https://web.cecs.pdx.edu/~qiqi2/files/papers/vfips/Video_Demo_Final.mp4) | [Poster](https://web.cecs.pdx.edu/~qiqi2/files/papers/vfips/poster.pdf) 
 
 PyTorch implementation of A Perceptual Quality Metric for Video Frame Interpolation.<br><br>
 A Perceptual Quality Metric for Video Frame Interpolation, <br>
