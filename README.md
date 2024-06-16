@@ -65,7 +65,7 @@ If you find this code is helpful, please consider to cite our paper.
 }
 ```
 
-If you find any bugs of the code, feel free to send me an email: qiqi2 AT pdx DOT edu. You can find more information in my 
+If you find any bugs of the code, feel free to send me an email: qiqi.hou2012@gmail.com. You can find more information in my 
 [homepage](https://hqqxyy.github.io/).
 
 ## Acknowledgments
