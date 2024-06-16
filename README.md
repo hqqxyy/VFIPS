@@ -42,7 +42,7 @@ python test_bvivfi_fast.py --model=multiscale_v33 --expdir=./exp/eccv_ms_multisc
 
 
 ### Training 
-1. Download the VFIPS dataset (Please contact with qiqi2 AT pdx DOT edu for it.). Set the path in the function `get_dataset_dir` in `utils.py`
+1. Download the VFIPS dataset (Please contact with qiqi.hou2012@gmail.com for it.). Set the path in the function `get_dataset_dir` in `utils.py`
 ```python
     if dataset == 'vfips':
         datadir = 'VFIPS_DATASET_PATH'
