@@ -1,6 +1,6 @@
 # A Perceptual Quality Metric for Video Frame Interpolation 
 
-### [Paper](https://arxiv.org/abs/2210.01879) | [Data](https://github.com/hqqxyy/VFIPS#training) | [Video](https://web.cecs.pdx.edu/~qiqi2/files/papers/vfips/Video_Demo_Final.mp4) | [Poster](https://web.cecs.pdx.edu/~qiqi2/files/papers/vfips/poster.pdf) 
+### [Paper](https://arxiv.org/abs/2210.01879) | [Data](https://github.com/hqqxyy/VFIPS#training) | [Video](https://hqqxyy.github.io/papers/vfips/Video_Demo_Final.mp4) | [Poster](https://web.cecs.pdx.edu/~qiqi2/files/papers/vfips/poster.pdf) 
 
 PyTorch implementation of A Perceptual Quality Metric for Video Frame Interpolation.<br><br>
 A Perceptual Quality Metric for Video Frame Interpolation, <br>
@@ -15,7 +15,7 @@ in European Conference on Computer Vision (ECCV) 2022.
 As video frame interpolation results often exhibit unique artifacts, existing quality metrics sometimes are not consistent with human perception when measuring the interpolation results. Some recent deep learning-based perceptual quality metrics are shown more consistent with human judgments, but their performance on videos is compromised since they do not consider temporal information. In this project, we present a dedicated perceptual quality metric for measuring video frame interpolation results.
 
 ### Video
-<a href="https://web.cecs.pdx.edu/~qiqi2/files/papers/vfips/Video_Demo_Final.mp4" rel="Video"><img src="https://web.cecs.pdx.edu/~qiqi2/files/papers/vfips/video_demo.png" alt="Video" width="100%"></a>
+<a href="https://hqqxyy.github.io/papers/vfips/Video_Demo_Final.mp4" rel="Video"><img src="https://web.cecs.pdx.edu/~qiqi2/files/papers/vfips/video_demo.png" alt="Video" width="100%"></a>
 
 ### Network
 <img src="figures/arch.png"> 
